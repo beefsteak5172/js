@@ -606,7 +606,7 @@
 
         // ==================== Cloudflare Worker API ====================
         // ★ 修改為你的 Worker URL（部署後從 Cloudflare Dashboard 取得）
-        const API_BASE = 'https://pos-admin.anonymousbeefsteak.workers.dev';
+        const API_BASE = 'https://tmenu-server.toastit2016.workers.dev';
 
         // ==================== PosDB：IndexedDB 包裝（替代 localStorage 大型資料）====================
         const PosDB = (() => {
